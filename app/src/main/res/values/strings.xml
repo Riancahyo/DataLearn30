@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">DataLearn30</string>
+    <string name="top_bar">30 Days of Data Learning</string>
+
+    <string name="day1">Hari 1</string>
+    <string name="title1">Pengenalan Ilmu Data</string>
+    <string name="description1">Pelajari dasar-dasar ilmu data: pengumpulan, analisis, dan interpretasi data untuk pengambilan keputusan yang lebih baik.</string>
+
+    <string name="day2">Hari 2</string>
+    <string name="title2">Pengelolaan Data</string>
+    <string name="description2">Kenali metode pengumpulan data seperti survei, scraping, dan API. Pelajari bagaimana menyimpan data dengan benar menggunakan database SQL/NoSQL.</string>
+
+    <string name="day3">Hari 3</string>
+    <string name="title3">Statistik Dasar</string>
+    <string name="description3">Pahami konsep statistik dasar seperti mean, median, mode, dan standar deviasi untuk memahami pola dalam data.</string>
+
+    <string name="day4">Hari 4</string>
+    <string name="title4">Python untuk Ilmu Data</string>
+    <string name="description4">Mulai belajar Python: tipe data, operasi dasar, dan library penting seperti NumPy dan Pandas untuk analisis data.</string>
+
+    <string name="day5">Hari 5</string>
+    <string name="title5">Visualisasi Data</string>
+    <string name="description5">Pelajari cara membuat grafik informatif menggunakan Matplotlib dan Seaborn. Buat diagram batang, pie chart, dan scatter plot untuk menjelaskan data Anda.</string>
+
+    <string name="day6">Hari 6</string>
+    <string name="title6">Data Cleaning</string>
+    <string name="description6">Pelajari teknik membersihkan data: menangani nilai kosong, duplikat, dan data yang salah format.</string>
+
+    <string name="day7">Hari 7</string>
+    <string name="title7">SQL untuk Pengolahan Data</string>
+    <string name="description7">Gunakan SQL untuk mengambil, menyaring, dan mengolah data dari database. Cobalah query seperti SELECT, JOIN, dan GROUP BY.</string>
+
+    <string name="day8">Hari 8</string>
+    <string name="title8">Dasar-dasar Machine Learning</string>
+    <string name="description8">Pahami jenis machine learning: supervised, unsupervised, dan reinforcement learning. Mulai dengan regresi linier.</string>
+
+    <string name="day9">Hari 9</string>
+    <string name="title9">Pengenalan Big Data</string>
+    <string name="description9">Kenali konsep Big Data: volume, velocity, dan variety. Pelajari alat seperti Hadoop dan Spark untuk analisis data dalam skala besar.</string>
+
+    <string name="day10">Hari 10</string>
+    <string name="title10">Pipeline Data</string>
+    <string name="description10">Bangun pipeline data otomatis untuk ETL (Extract, Transform, Load) menggunakan alat seperti Apache Airflow atau Luigi.</string>
+
+    <string name="day11">Hari 11</string>
+    <string name="title11">Pemrograman R untuk Statistik</string>
+    <string name="description11">Gunakan bahasa R untuk analisis data statistik. Pelajari package seperti ggplot2 dan dplyr.</string>
+
+    <string name="day12">Hari 12</string>
+    <string name="title12">Pengolahan Data Waktu Nyata</string>
+    <string name="description12">Pelajari cara menangani data real-time menggunakan teknologi seperti Kafka atau Flink.</string>
+
+    <string name="day13">Hari 13</string>
+    <string name="title13">Exploratory Data Analysis (EDA)</string>
+    <string name="description13">Gunakan teknik EDA untuk memahami data sebelum membangun model. Identifikasi pola, outlier, dan distribusi data.</string>
+
+    <string name="day14">Hari 14</string>
+    <string name="title14">Pengenalan Deep Learning</string>
+    <string name="description14">Pelajari dasar deep learning dengan jaringan saraf tiruan. Gunakan framework seperti TensorFlow atau PyTorch untuk eksperimen.</string>
+
+    <string name="day15">Hari 15</string>
+    <string name="title15">Model Evaluasi</string>
+    <string name="description15">Pelajari metrik evaluasi seperti akurasi, precision, recall, dan F1-score untuk menilai performa model machine learning Anda.</string>
+
+    <string name="day16">Hari 16</string>
+    <string name="title16">API Data</string>
+    <string name="description16">Pelajari cara mengakses dan memproses data melalui API. Gunakan RESTful API untuk menarik data eksternal ke dalam aplikasi Anda.</string>
+
+    <string name="day17">Hari 17</string>
+    <string name="title17">Pengelolaan Proyek Data</string>
+    <string name="description17">Gunakan teknik manajemen proyek untuk kolaborasi tim dalam proyek data. Gunakan alat seperti JIRA atau Trello untuk pelacakan tugas.</string>
+
+    <string name="day18">Hari 18</string>
+    <string name="title18">Kecerdasan Buatan untuk Data</string>
+    <string name="description18">Gunakan AI untuk prediksi data dan analisis mendalam. Terapkan model AI dalam aplikasi data nyata.</string>
+
+    <string name="day19">Hari 19</string>
+    <string name="title19">Pengolahan Bahasa Alami (NLP)</string>
+    <string name="description19">Pelajari NLP untuk analisis teks, seperti pengenalan entitas dan analisis sentimen menggunakan library seperti NLTK atau spaCy.</string>
+
+    <string name="day20">Hari 20</string>
+    <string name="title20">Analisis Jaringan Sosial</string>
+    <string name="description20">Gunakan data dari platform sosial untuk analisis jaringan, tren, dan perilaku pengguna.</string>
+
+    <string name="day21">Hari 21</string>
+    <string name="title21">Dashboard dan Laporan</string>
+    <string name="description21">Buat dashboard interaktif dengan alat seperti Tableau atau Power BI untuk menyampaikan hasil analisis data.</string>
+
+    <string name="day22">Hari 22</string>
+    <string name="title22">Keamanan Data</string>
+    <string name="description22">Pelajari praktik terbaik untuk melindungi data, seperti enkripsi, kontrol akses, dan audit data.</string>
+
+    <string name="day23">Hari 23</string>
+    <string name="title23">Penggunaan Cloud untuk Data</string>
+    <string name="description23">Gunakan layanan cloud seperti AWS S3, Google BigQuery, atau Azure untuk menyimpan dan memproses data dalam skala besar.</string>
+
+    <string name="day24">Hari 24</string>
+    <string name="title24">Proyek Mini Data Science</string>
+    <string name="description24">Gabungkan semua yang dipelajari dengan membuat proyek analisis data sederhana, seperti prediksi harga atau klasifikasi data.</string>
+
+    <string name="day25">Hari 25</string>
+    <string name="title25">Pemodelan Data</string>
+    <string name="description25">Pelajari teknik pemodelan data untuk representasi visual dan desain sistem database yang efisien.</string>
+
+    <string name="day26">Hari 26</string>
+    <string name="title26">Data Ethics</string>
+    <string name="description26">Pelajari etika dalam pengolahan data, seperti privasi pengguna dan bias algoritma.</string>
+
+    <string name="day27">Hari 27</string>
+    <string name="title27">Otomasi Workflow Data</string>
+    <string name="description27">Automasi pipeline data dengan alat seperti Apache NiFi atau Prefect untuk alur kerja data yang efisien.</string>
+
+    <string name="day28">Hari 28</string>
+    <string name="title28">Kompetisi Data</string>
+    <string name="description28">Ikuti kompetisi data seperti Kaggle untuk mengasah kemampuan dan memecahkan masalah nyata.</string>
+
+    <string name="day29">Hari 29</string>
+    <string name="title29">Proyek Kolaborasi Data</string>
+    <string name="description29">Kerja sama dalam tim untuk mengembangkan solusi data yang lebih besar dan lebih kompleks.</string>
+
+    <string name="day30">Hari 30</string>
+    <string name="title30">Presentasi Hasil</string>
+    <string name="description30">Buat presentasi proyek akhir Anda dengan cerita data yang menarik, disertai visualisasi yang mendukung.</string>
+</resources>
